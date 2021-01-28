@@ -1,0 +1,7 @@
+include ':sdk'
+include ':face-detection'
+include ':camera-calibration'
+include ':color-blob-detection'
+include ':15-puzzle'
+include ':image-manipulations'
+rootProject.name = "OpenCV"
